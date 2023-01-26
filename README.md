@@ -142,7 +142,7 @@ Publish the website in the given URL.
 ```
 
 ## Output:
-![output](sricoverpage.png)
+![output](sricover.png)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully
